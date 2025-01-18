@@ -1,0 +1,99 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+
+    },
+    "network_error_decoding_failed" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to decode the server's response."
+          }
+        }
+      }
+    },
+    "network_error_invalid_url" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The URL provided is invalid."
+          }
+        }
+      }
+    },
+    "network_error_no_data" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No data was received from the server."
+          }
+        }
+      }
+    },
+    "network_error_no_internet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Internet is not connected, please connect to network"
+          }
+        }
+      }
+    },
+    "network_error_server_error%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server error occurred with status code: %lld"
+          }
+        }
+      }
+    },
+    "network_error_unknown%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An unknown error occurred: %@"
+          }
+        }
+      }
+    },
+    "planet_list_view_empty" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No planets available."
+          }
+        }
+      }
+    },
+    "planet_list_view_loading_planets" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading Planets…"
+          }
+        }
+      }
+    },
+    "planet_list_view_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Planets"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
